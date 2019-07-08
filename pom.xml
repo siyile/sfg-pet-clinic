@@ -16,7 +16,7 @@
     </parent>
     <groupId>top.siyile</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.4-SNAPSHOT</version>
     <name>sfg-pet-clinic</name>
     <description>SFG Pet Clinic Project</description>
 
