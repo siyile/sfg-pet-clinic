@@ -1,11 +1,11 @@
 package top.siyile.sfgpetclinic.services.map;
 
 import top.siyile.sfgpetclinic.model.Pet;
-import top.siyile.sfgpetclinic.services.CrudService;
+import top.siyile.sfgpetclinic.services.PetService;
 
 import java.util.Set;
 
-public class PetServiceMap extends AbstractMapService<Pet, Long> implements CrudService<Pet, Long> {
+public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
 
     @Override
     public Set<Pet> findAll() {
